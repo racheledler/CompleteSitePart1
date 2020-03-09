@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, arial, SanSerif;
+    color: green
+}
+
+head {
+    font-family: Helvetica, arial, SanSerif;
+    color: green
+}
+
+p{
+    color: brown;
+}
+
+span{
+    color: rebeccapurple;
+}
+
+td { 
+    padding: 15px;
+    border: 2px solid #000000;
+    cursor: move;}
+    
+    table.one { border-spacing: 5px 15px;}
+    
+    table.two { 
+        border-collapse: collapse;
+    }
+    
